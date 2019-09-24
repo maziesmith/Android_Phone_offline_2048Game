@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My2048Game</string>
+    <string name="score">当前分数：</string>
+    <string name="start">开始</string>
+    <string name="author">作者：Azrael天羽</string>
+    <string name="date">2019/9/24</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
